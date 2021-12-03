@@ -1,0 +1,39 @@
+body{
+	background-color:#d3f0ff;
+font-family:'Saria Stencil One',cursive;
+}
+h1{
+color:#6f73d2;
+}
+main{
+position:absolute;
+top:10%;
+left:50%;
+transform:translatex(-50%);
+}
+.btng{
+display:flex;
+justify-content:space-between;
+}
+
+p{
+font-size:30px;
+color:#83c9f4;
+weight:40px;
+}
+button{
+background-color:#d9f0ff;
+border:2px solid #83c9f4;
+width:60px;
+height:40px;
+color:#83c9f4;
+}
+
+button:hover{
+background-color:#83c9f4;
+color:#d9f0ff;
+}
+button:active{
+background-color:#83c9f4;
+color:#d9f0ff;
+}
